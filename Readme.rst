@@ -11,10 +11,11 @@
 .. |Docs| image:: https://readthedocs.org/projects/scikit-uplift/badge/?version=latest
 .. _Docs: https://scikit-uplift.readthedocs.io/en/latest/
 
-.. |RU| image:: https://colab.research.google.com/assets/colab-badge.svg
-   :target: https://colab.research.google.com/drive/1SXMbwNjsrf1v33rWDDdI_2PccoGPgiq9
+.. _RU: https://nbviewer.jupyter.org/github/maks-sh/scikit-uplift/blob/master/notebooks/RetailHero.ipynb
+.. _EN: https://nbviewer.jupyter.org/github/maks-sh/scikit-uplift/blob/master/notebooks/RetailHero_EN.ipynb
 
-.. |EN| 
+.. |Open In Colab| image:: https://colab.research.google.com/assets/colab-badge.svg
+   :target: https://colab.research.google.com/drive/1OqaqkHFU31SPYiqwzZSAE43k6Y0BnSSA
 .. |Open In Colab| image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/drive/1SXMbwNjsrf1v33rWDDdI_2PccoGPgiq9
    
