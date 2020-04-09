@@ -11,12 +11,11 @@
 .. |Docs| image:: https://readthedocs.org/projects/scikit-uplift/badge/?version=latest
 .. _Docs: https://scikit-uplift.readthedocs.io/en/latest/
 
-.. |RU| 
+.. |RU| image:: https://colab.research.google.com/assets/colab-badge.svg
+   :target: https://colab.research.google.com/drive/1SXMbwNjsrf1v33rWDDdI_2PccoGPgiq9
 
 .. |EN| 
 
-.. |Open In Colab| image:: https://colab.research.google.com/assets/colab-badge.svg
-   :target: https://colab.research.google.com/drive/1SXMbwNjsrf1v33rWDDdI_2PccoGPgiq9
 .. _scikit-uplift.readthedocs.io: https://scikit-uplift.readthedocs.io/en/latest/
 .. _in russian on habr.com: https://habr.com/ru/company/ru_mts/blog/485980/
 
